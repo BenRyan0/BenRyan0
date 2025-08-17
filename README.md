@@ -1,10 +1,11 @@
-# Ben Ryan Rinconada  
+<h1 align="center">Hi 👋, I'm Ben Ryan Rinconada</h1>
+<h3 align="center">🎯 Entry-Level Web Developer | Passionate about building intuitive and user-focused web applications</h3>
 
-🎯 **Entry-Level Web Developer** 
 ---
+
 ## 🎯 Career Objective  
-Entry-level Web Developer with skills in JavaScript, React.js, and Node.js, 
-passionate about building intuitive and user-focused web applications. 
+I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js**, passionate about crafting **scalable, intuitive, and user-centric web applications**. I enjoy solving problems, optimizing features, and implementing secure authentication workflows. My goal is to continuously grow as a developer while delivering impactful solutions that empower users.  
+
 ---
 
 ## 🛠 Skills  
@@ -28,7 +29,6 @@ passionate about building intuitive and user-focused web applications.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-
 ---
 
-⭐️ From [BenRyan0](https://github.com/BenRyan0)  
+⭐️ From [BenRyan0](https://github.com/BenRyan0)
