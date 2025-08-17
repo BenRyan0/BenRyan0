@@ -1,13 +1,7 @@
-# Hi there 👋, I'm Ben Ryan Rinconada  
+# Ben Ryan Rinconada  
 
-🎯 **Entry-Level Web Developer** | Passionate about building scalable, user-friendly web apps  
-
-📍 Baganga, Davao Oriental | ✉️ benryan.rinconada.6@gmail.com | 📱 +63-915-932-4112  
-
-🌐 [Portfolio](https://ben-ryan-rinconada.vercel.app) | [LinkedIn](https://linkedin.com/in/ben-ryan-rinconada) | [GitHub](https://github.com/BenRyan0)
-
+🎯 **Entry-Level Web Developer** 
 ---
-
 ## 🎯 Career Objective  
 Entry-level Web Developer skilled in **JavaScript, React.js, and Node.js**.  
 Passionate about crafting intuitive, user-centric web applications.  
