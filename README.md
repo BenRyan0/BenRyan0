@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben Ryan Rinconada</h1>
-<h3 align="center">🎯 Entry-Level Web Developer | Passionate about building intuitive and user-focused web applications</h3>
+<h4 align="center">Entry-Level Web Developer | Passionate about building intuitive and user-focused web applications</h3>
 
 ---
 
