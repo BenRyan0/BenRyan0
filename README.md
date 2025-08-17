@@ -3,11 +3,8 @@
 🎯 **Entry-Level Web Developer** 
 ---
 ## 🎯 Career Objective  
-Entry-level Web Developer skilled in **JavaScript, React.js, and Node.js**.  
-Passionate about crafting intuitive, user-centric web applications.  
-Adept at **bug resolution, feature optimization, and authentication workflows**.  
-Collaborative, agile-minded, and committed to continuous learning.  
-
+Entry-level Web Developer with skills in JavaScript, React.js, and Node.js, 
+passionate about building intuitive and user-focused web applications. 
 ---
 
 ## 🛠 Skills  
