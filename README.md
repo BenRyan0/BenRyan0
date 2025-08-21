@@ -4,9 +4,6 @@
 I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js**, passionate about crafting **scalable, intuitive, and user-centric web applications**. I enjoy solving problems, optimizing features, and implementing secure authentication workflows. My goal is to continuously grow as a developer while delivering impactful solutions that empower users.  
 
 ---
-
-## 🛠 Skills  
-
 ### Frontend  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
