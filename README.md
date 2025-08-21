@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben Ryan Rinconada</h1>
-<h4 align="center">Entry-Level Web Developer | Passionate about building intuitive and user-focused web applications</h3>
+<h4 align="center">Entry-Level Web Developer | Passionate about building intuitive and user-focused web applications</h4>
 
----
-
-## 🎯 Career Objective  
 I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js**, passionate about crafting **scalable, intuitive, and user-centric web applications**. I enjoy solving problems, optimizing features, and implementing secure authentication workflows. My goal is to continuously grow as a developer while delivering impactful solutions that empower users.  
 
 ---
@@ -23,7 +20,6 @@ I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 
