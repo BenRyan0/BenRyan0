@@ -36,21 +36,15 @@ I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js
 ------
 
 ### 📊 GitHub Analytics
-<table style="border: none !important; outline: none !important; border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td style="border: none !important; outline: none !important;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenRyan0&layout=compact&theme=tokyonight" />
-    </td>
-    <td style="border: none !important; outline: none !important;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenRyan0&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="border: none !important; outline: none !important;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenRyan0&theme=tokyo-night" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenRyan0&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenRyan0&theme=tokyonight" />
+</div>  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenRyan0&theme=tokyo-night" />
+</div>
+
 
 
 
