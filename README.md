@@ -35,23 +35,22 @@ I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js
 
 ------
 
----
-
 ### 📊 GitHub Analytics
-<table>
+<table style="border:none; outline:none; border-collapse:collapse;">
   <tr>
-    <td>
+    <td style="border:none; outline:none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenRyan0&layout=compact&theme=tokyonight" />
     </td>
-    <td>
+    <td style="border:none; outline:none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenRyan0&theme=tokyonight" />
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" style="border:none; outline:none;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenRyan0&theme=tokyo-night" />
     </td>
   </tr>
 </table>
+
 
 
