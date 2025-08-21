@@ -36,10 +36,10 @@ I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js
 ------
 
 ### 📊 GitHub Analytics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinconadabenryan&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenRyan0&layout=compact&theme=tokyonight)  
 
-![Ben Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinconadabenryan&show_icons=true&theme=tokyonight)  
+![Ben Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenRyan0&show_icons=true&theme=tokyonight)  
 
-![Ben Ryan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rinconadabenryan&theme=tokyo-night)
+![Ben Ryan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BenRyan0&theme=tokyo-night)
 
 
