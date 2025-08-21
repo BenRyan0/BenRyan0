@@ -33,4 +33,8 @@ I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>  
 
----
+------
+
+### 📊 GitHub Analytics
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinconadabenryan&layout=compact&theme=tokyonight)
+
