@@ -27,6 +27,4 @@ I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
----
 
-⭐️ From [BenRyan0](https://github.com/BenRyan0)
