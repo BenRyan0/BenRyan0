@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ben Ryan Rinconada</h1>
-<h4 align="center">Entry-Level Web Developer | Passionate about building intuitive and user-focused web applications</h4>
+# Hi 👋, I'm Ben Ryan Rinconada
+### Entry-Level Web Developer | Passionate about building intuitive and user-focused applications  
 
 I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js**, passionate about crafting **scalable, intuitive, and user-centric web applications**. I enjoy solving problems, optimizing features, and implementing secure authentication workflows. My goal is to continuously grow as a developer while delivering impactful solutions that empower users.  
 
 ---
-### Frontend  
-<p align="left">
+
+### 🚀 Frontend  
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -13,18 +14,29 @@ I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>  
 
-### Backend  
-<p align="left">
+### ⚙️ Backend  
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+</p>  
 
+### 🗄️ Database  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>  
 
-### Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+### 🛠️ Tools  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>  
 
-### Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+---
 
+### 📌 Projects  
+- [🏪 Marketplace App](https://github.com/...) — MERN-based platform with authentication, payments, and CRUD operations.  
+- [📊 Employee Evaluation System](https://github.com/...) — React + Node.js tool for performance reviews.  
 
+---
