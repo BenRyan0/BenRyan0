@@ -19,17 +19,16 @@ I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js
 </p>
 
 ### ⚙️ Backend And Database
-
-<p>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>  
+</p>   
+
+### 🛢️ Database  
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p> 
-</p>
 
 
 ### 🛠️ Tools
@@ -43,12 +42,11 @@ I am an Entry-Level Web Developer skilled in **JavaScript, React.js, and Node.js
 
 ---
 
-### 📊 GitHub Analytics
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenRyan0&layout=compact&theme=tokyonight" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenRyan0&theme=tokyonight" /> -->
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenRyan0&theme=tokyo-night" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenRyan0&theme=tokyo-night" /> -->
 </div>
